@@ -1,5 +1,5 @@
 export const API_BASE = process.env.NODE_ENV === 'production' 
-  ? 'https://tasselgroup-back.onrender.com/api'
+  ? 'https://tasselgroupreact.onrender.com/api'
   : 'http://localhost:5000/api';
 
 export const TIME_SLOTS = [
